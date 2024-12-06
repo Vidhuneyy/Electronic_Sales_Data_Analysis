@@ -50,4 +50,3 @@ This dashboard is a valuable tool for sales managers, data analysts, and decisio
 ## Tools Used
 - **Data Visualization**: Created using Microsoft Excel/Power BI.
 - **Dataset**: Electronic sales data for the fiscal year 2023-24.
-- 
