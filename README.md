@@ -1,10 +1,10 @@
-# Electronics Sales Dashboard 2023-24
+# Electronics Sales Data Analysis (Intractive Dashboard Creation Using MS Excel)
 
 ## Project Overview :
 This project presents a comprehensive **Electronics Sales Dashboard** for the fiscal year 2023-24. It visualizes and analyzes sales data across various electronic product categories, providing insights into profitability, customer preferences, and sales performance. The dashboard is designed to assist businesses in making data-driven decisions to optimize sales strategies and improve customer engagement.
 
 ## Dataset used : 
-<a href=''>E-ales report 2023-24 </a>
+<a href=''>E-sales report 2023-24 </a>
 
 ## Key Features :
 1. **Total and Average Sales**:
