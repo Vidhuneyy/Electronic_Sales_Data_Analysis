@@ -4,7 +4,7 @@
 This project presents a comprehensive **Electronics Sales Dashboard** for the fiscal year 2023-24. It visualizes and analyzes sales data across various electronic product categories, providing insights into profitability, customer preferences, and sales performance. The dashboard is designed to assist businesses in making data-driven decisions to optimize sales strategies and improve customer engagement.
 
 ## Dataset used : 
-<a href=''>E-sales report 2023-24 </a>
+<a href='https://github.com/Vidhuneyy/Electronic_Sales_Data_Analysis/blob/main/Electronic_sales_Sep2023-Sep2024.csv'>E-sales report 2023-24 </a>
 
 ## Key Features :
 1. **Total and Average Sales**:
@@ -35,7 +35,10 @@ This project presents a comprehensive **Electronics Sales Dashboard** for the fi
 8. **Interactive Filters**:
    - Filters for gender, loyalty membership, product type, shipping type, and customer ID enhance the dashboard's interactivity and enable customized insights.
 
-## Dashboard
+## Dashboard 
+![Dashboard image](https://github.com/user-attachments/assets/35f2980d-9e70-414c-a9cb-8c61b4fe7b9d)
+
+
 
 ## Use Case
 This dashboard is a valuable tool for sales managers, data analysts, and decision-makers in the electronics industry. It helps:
